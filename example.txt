@@ -1,0 +1,15 @@
+🎤 Speak now...
+✅ Recording done
+📝 You said: into the manager that I want holiday tomorrow at 3rd September the manager name was ocean
+📝 Formal Email: Subject: Holiday Request - [Your Name] - September 3rd
+
+Dear Ocean,
+
+This email is to formally request a holiday on September 3rd.
+
+Thank you for your consideration.
+
+Sincerely,
+
+[Your Name]
+📧 Email sent successfully!
